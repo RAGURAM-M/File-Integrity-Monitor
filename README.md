@@ -33,18 +33,14 @@ A simple Python tool to monitor file changes by calculating and comparing hash v
   - Save updated hashes to file_hashes.json
 
 ##  📷 Example Output
---- File Changes Detected ---
 
-MODIFIED FILES:
-  - /path/to/modified.txt
+**Before Modifying**
 
-NEW FILES:
-  - /path/to/newfile.py
+![Image](https://github.com/user-attachments/assets/3523a6b2-4dfc-439e-b5b3-9d751a8b7f87)
 
-DELETED FILES:
-  - /path/to/oldfile.txt
+**After Modifying**
 
-Hash data updated.
+![Image](https://github.com/user-attachments/assets/bc20e4c2-806e-427b-9372-dd628a664e34)
 
 ## 💡 Use Cases
 Monitoring critical system or project files
@@ -53,6 +49,17 @@ Detecting tampering or accidental changes
 
 Backup verification
 
-### Author: Ragu Ram M
-CODTECH INTERN
+---
 
+### 👤 Author
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Raguram M
+
+**INTERN ID:** CT04DF1209
+
+**DOMAIN:** CYBER SECURITY AND ETHICAL HACKING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** NEELA SANTHOSH KUMAR
